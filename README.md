@@ -40,11 +40,17 @@ Then, rename "env.example" to ".env" and open it. Paste your token in where "DIS
 
 ------------------------------------------------
 
-Let's install pycord now. 
+Let's install pycord and other libraries now. 
 
 First install python, go to [python downloads](https://www.python.org/downloads/), select your build and follow the instructions.
 
 Second, press "WIN + R" and type: `pip install py-cord`, and wait until the installation is in progress.
+
+Then, type: `pip install translatepy`, and wait until the installation is in progress.
+
+Then, type: `pip install python-dotenv`, and wait until the installation is in progress.
+
+Then, type: `pip install python-dotenv`, and wait until the installation is in progress.
 
 Now, go back to your DiscordTransBot git folder on your computer, and then type this in: `python DiscordBot.py` and you have a running bot!
 
