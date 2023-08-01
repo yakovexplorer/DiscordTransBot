@@ -50,8 +50,6 @@ Then, type: `pip install translatepy`, and wait until the installation is in pro
 
 Then, type: `pip install python-dotenv`, and wait until the installation is in progress.
 
-Then, type: `pip install python-dotenv`, and wait until the installation is in progress.
-
 Now, go back to your DiscordTransBot git folder on your computer, and then type this in: `python DiscordBot.py` and you have a running bot!
 
 Invite it now, go to dev portal > your bot > OAuth2 > URL generator, and select everything I did:
